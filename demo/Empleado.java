@@ -18,12 +18,12 @@ public class Empleado {
         this.nombre = nombre;
     }
 
-    public String getApellidoPaterno() {
-        return apellidoPaterno;
+    public String getApellido() {
+        return apellido;
     }
 
-    public void setApellidoPaterno(String apellidoPaterno) {
-        this.apellidoPaterno = apellidoPaterno;
+    public void setApellidoPaterno(String apellido) {
+        this.apellidoPaterno = apellido;
     }
 
     public String getApellidoMaterno() {
